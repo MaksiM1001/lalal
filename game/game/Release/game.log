@@ -1,0 +1,8 @@
+﻿  game.cpp
+C:\code\CPP\second\c-code\game\game\game.cpp(109,11): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\code\CPP\second\c-code\game\game\game.cpp(169,12): warning C4101: n: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  game.vcxproj -> C:\code\CPP\second\c-code\game\Release\game.exe
